@@ -1,4 +1,4 @@
-## 记录golang对attack/LOLBIN 自动化操作
+## 记录golang对attack/LOLBIN 自动化操作（仅限poc |   仅供测试用）
 
 
 
